@@ -1,0 +1,46 @@
+h1{
+    font-size: 80px;
+    color: white;
+    font-weight: 900;
+    text-align: center;
+    top: 50%;
+}
+h3{
+    font-size: 30px;
+    color: white;
+}
+.column {
+    float: left;
+    width: 50%;
+    background-color: #2eb875;
+}
+.rest {
+    background-color: #6675ff;
+    width: 100%;
+    background-size: cover;
+    color: white;
+    text-align: center;
+}
+a {
+    color: blue;
+    text-decoration: none;
+}
+.flex-vp-height {
+    display: flex; 
+    flex-direction: column;
+    min-height: 100vh;
+    overflow: hidden;
+}
+.bg-white {
+    background-color: white;
+}
+.stage {
+    transition: transform .3s cubic-bezier(.2,.7,.5,1) 0s;
+}
+div {
+    display: block;
+}
+.flex-vp-height .flex-content {
+    flex-grow: 1;
+    flex-shrink: 1;
+}

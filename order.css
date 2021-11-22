@@ -1,0 +1,146 @@
+body {
+    user-select: none;
+}
+.body {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #d9fde5;
+    z-index: 1;
+    overflow: auto;
+}
+.home img {
+    margin-bottom: 1.7rem;
+    display: block;
+}
+.home .body {
+    text-align: left;
+    top: 0;
+    padding: 40px 2.5rem 1.5rem;
+}
+.home .divider {
+    width: 5.5rem;
+    height: 0.2rem;
+    background-color: rgb(31, 28, 57);
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.home h2 {
+    line-height: 2.4rem;
+    font-weight: 400;
+    font-size: 1.7rem;
+    display: block;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px
+}
+.home .phoneinputs input {
+    border-bottom: 2px solid #9f9f9f;
+    color: #f9f9f9;
+}
+.home .phoneinputs {
+    -webkit-box-direction: normal;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    justify-content: center;
+    box-sizing: border-box;
+    padding: 1rem 1.5rem 2rem;
+    color: #f9f9f9;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    z-index: 0;
+    min-height: 25vh;
+    background: linear-gradient( 90deg, rgb(31, 28, 57) 0, rgb(31, 28, 57));
+}
+.home .phoneinputs h3 {
+    font-size: 1.1rem;
+    font-weight: 350;
+    text-align: left;
+    margin: 1rem 1rem 0 0.5rem;
+    width: 100%;
+}
+.Home .PhoneInputs:after {
+    transform-origin: left top;
+    background: inherit;
+    content: "";
+    display: block;
+    height: 80%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: -1;
+    transform: skewY(-4deg);
+}
+input.underlined {
+    border-radius: 0;    
+    border: 0;
+    outline: 0;
+    background-color: transparent;
+    margin-bottom: 0.5rem;
+    font-weight: 300;
+    padding: 0.5rem;
+}
+input {
+    text-indent: 0px;
+    text-shadow: none;
+    text-align: start;
+    -webkit-rtl-ordering: logical;
+    cursor: text;
+    letter-spacing: normal;
+    word-spacing: normal;
+    -webkit-appearance: none;
+    box-shadow: none;
+}
+.view {
+    text-align: center;
+}
+.view, body, html {
+    width: 100%;
+    height: 100%;
+}
+div, img {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    vertical-align: baseline;
+}
+div {
+    display: block;
+}
+.flag-icon-ng {
+    background-image: url(https://m.bolt.eu/static/media/ng.b69ed1e5.svg);
+}
+.flag-icon {
+    position: relative;
+    display: inline-block;
+    line-height: 1em;
+}
+.phoneinputs input {
+    margin: 0.6rem;
+}
+.PhoneInputs input:first-of-type {
+    min-width: 65px;
+    width: 20vw;
+    font-size: .8rem;
+    padding-left: 1.7rem;
+    box-sizing: border-box;
+    background-position: 0;
+    background-size: 1.4rem;
+    padding-right: 0;
+}
+.PhoneInputs input:last-of-type {
+    width: 46vw;
+}
+.routes {
+    width: 100%;
+    height: 100%;
+}

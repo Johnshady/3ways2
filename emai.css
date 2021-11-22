@@ -1,0 +1,18 @@
+.hsg-page-header__bg--desktop {
+    display: block;
+}
+.hsg-page-header__bg-image {
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 100%;
+    position: absolute;
+    right: 0;
+    width: 50%;
+}
+div {
+    font: inherit;
+    vertical-align: baseline;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
