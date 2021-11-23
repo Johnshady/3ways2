@@ -148,7 +148,8 @@ footer {
     padding: 26px 16px 27px;
     vertical-align: top;
     color: #2f313f;
-    text-align: center; n
+    text-align: center; 
+    float: right;
 }
 .menu-item {
     color: #2f313f;
