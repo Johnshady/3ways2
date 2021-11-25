@@ -1,0 +1,254 @@
+.lake {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 700;
+}
+.text-center {
+    color: inherit;
+    padding-left: 120px!important;
+    padding-right: 120px!important;
+    margin-top: 40px;
+}
+.spade {
+    color: grey;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 480;
+}
+body {
+    color: #212529;
+}
+.blade {
+    color: grey;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 480;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-size: 17px;
+}
+.pill {
+    margin-top: 40px;
+}
+h3 {
+    display: block;
+    color: inherit;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 700;
+}
+.products {
+    padding-top: 220px;
+}
+.long {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+.block-button {
+    display: inline-block;
+    position: relative;
+    vertical-align: top;
+    z-index: 1;
+}
+a:-webkit-any-link {
+    cursor: pointer;
+}
+
+.text-smaller {
+    font-size: 12px;
+    line-height: 20px;
+}.py-12 {
+    padding-top: 12px!important;
+    padding-bottom: 12px!important;
+}
+
+.px-24 {
+    padding-left: 24px;
+    padding-right: 24px;
+}
+.octa-btn {
+    font-weight: 700;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    border-radius: 100px;
+    display: inline-block;
+    text-align: center;
+}
+.mt-8 {
+    margin-top: 8px;
+}
+.shadow {
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+}
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+.hide .menu-item {
+    font-size: 14px;
+    padding-left: 9.5px!important;
+    padding-right: 9.5px!important;
+}
+.hide .menu-item {
+    display: inline-block;
+    line-height: 27px;
+    padding: 26px 16px 27px;
+    vertical-align: top;
+    color: #2f313f;
+    text-align: center; 
+    float: right;
+}
+.menu-item {
+    color: #2f313f;
+}
+.show-md-inline {
+    direction: ltr;
+}
+nav {
+    display: block;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 120px;
+    font-weight: 450;
+}
+.z-2 {
+    position: relative;
+    z-index: 2;    
+}
+.container {
+    margin: auto;
+    max-width: 1200px;
+    padding: 0 24px;
+    position: relative;
+}
+div {
+    direction: ltr;
+    unicode-bidi: isolate;
+}
+a:-webkit-any-link {
+    cursor: pointer;
+}
+.inline-img {
+    line-height: 0;
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.show-md-inline {
+    font-weight: 450;
+}
+.show-md-inline {
+    display: inline!important;
+}
+.justify-content-center {
+    justify-content: center!important;
+}
+.align-items-center {
+    align-items: center!important;
+}
+.d-flex {
+    display: flex!important;
+}
+.float-right {
+    float: right;
+}
+.hide {
+    display: none;
+}
+
+
+
+<!--Stories from_3ways-->
+.my-block {
+    flex-wrap: wrap;
+}
+.w-100 {
+    width: 100%!important;
+}
+.justify-content-between {
+    justify-content: space-between!important;
+}
+.d-flex {
+    display: flex!important;
+}
+.mt-lg-40, .my-lg-40 {
+    margin-top: 40px!important;
+}
+.mb-lg-0, .my-lg-0 {
+    margin-bottom: 0!important;
+}
+.mr-md-40, .mx-md-40 {
+    margin-right: 40px!important;
+}
+.flex-lg-column {
+    flex-direction: column!important;
+}
+.d-flex {
+    display: flex!important;
+}
+.mh-195-px {
+    max-height: 195px!important;
+}
+.mr-lg-0, .mx-lg-0 {
+    margin-right: 0!important;
+}
+.my-story-header {
+    filter: drop-shadow(0 2px 6px rgba(0, 0, 0, .16));
+    object-fit: cover;
+}
+.border-rad-24 {
+    border-radius: 24px;
+}
+.mw-370-px {
+    max-width: 370px!important;
+}
+.mb-lg-24, .my-lg-24 {
+    margin-bottom: 24px!important;
+}
+img {
+    vertical-align: middle;
+    border-style: none;
+}
+.pr-40, .px-40 {
+    padding-right: 40px!important;
+}
+.flex-column {
+    flex-direction: column!important;
+}
+
+
+
+footer {
+    display: block;
+}
+.footer .links-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.footer .links-list li {
+    margin-top: 24px;
+}
+.site-footer_legal {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 1px solid #b3adad;
+    color: #898A97;
+    font-size: 15px;
+    padding: 52px 50px;
+}
+.bg-light-grey {
+    background-color: #123342;;
+}
